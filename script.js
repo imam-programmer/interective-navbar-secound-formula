@@ -11,3 +11,9 @@ two.addEventListener('click',()=>{
     
     about.style.display='none'
 })
+let sections=document.querySelectorAll('section');
+sections.forEach((section)=>{
+    section.addEventListener('click',()=>{
+        section.style.display='none'
+    })
+})
