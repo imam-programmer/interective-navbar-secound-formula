@@ -5,6 +5,15 @@ section{
     padding: 20px 10px 20px 10px;
     border-radius: 20px;
 }
+h2{
+    background-color: white;
+    display: inline;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+}
 nav{
     text-align: center;
     margin-top: 50px;
